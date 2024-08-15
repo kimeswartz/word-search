@@ -1,0 +1,4 @@
+For a given input string,
+return a Boolean TRUE if the string starts with a given input word.
+So, for an input string of “hello world” and input word “hello,”
+the program should return TRUE.
